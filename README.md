@@ -14,6 +14,7 @@ To fulfill the first requirement, we'll use the OpenWeatherMap API to retrieve w
 - Latitude vs. Wind Speed
 
 
+![image 1](https://github.com/isekmen/python-api-challenge/assets/101214487/e749b035-cf87-463d-b107-eb7db337b024)
 
 
 
@@ -43,6 +44,7 @@ To succeed on this deliverable of the assignment, open the `VacationPy.ipynb` st
 
 Create a map that displays a point for every city in the `city_data_df` DataFrame as shown in the following image. The size of the point should be the humidity in each city.
 
+![image 2](https://github.com/isekmen/python-api-challenge/assets/101214487/36e5ee2b-ebfd-4bf1-9d47-246df461cfb1)
 
 
 
@@ -59,6 +61,7 @@ For each city, use the Geoapify API to find the first hotel located within 10,00
 
 Add the hotel name and the country as additional information in the hover message for each city on the map as in the following image:
 
+![image 3](https://github.com/isekmen/python-api-challenge/assets/101214487/d232bda8-e4ea-4686-a6e0-6bee87aa4dc6)
 
 
 
